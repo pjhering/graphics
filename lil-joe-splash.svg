@@ -18,8 +18,8 @@
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="lil-joe-splash.svg"
    inkscape:export-filename="/home/tinman/Projects/graphics/lil-joe-splash.png"
-   inkscape:export-xdpi="384"
-   inkscape:export-ydpi="384">
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2">
     <linearGradient
@@ -65,7 +65,7 @@
        x2="84.557617"
        y2="-287.2128"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.178056,0,-1.0304717e-8,1.1780559,-385.63772,82.747559)" />
+       gradientTransform="matrix(1.178056,0,-1.0304719e-8,1.1780559,-359.16211,82.747559)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -74,8 +74,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7890625"
-     inkscape:cx="316.19802"
+     inkscape:zoom="0.85625"
+     inkscape:cx="320"
      inkscape:cy="240"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -112,28 +112,32 @@
        height="127"
        x="0"
        y="169.99998" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="9.4588499"
-       y="251.61292"
-       id="text4497"><tspan
-         sodipodi:role="line"
-         id="tspan4495"
-         x="9.4588499"
-         y="251.61292"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.15555573px;font-family:'Marked Fool';-inkscape-font-specification:'Marked Fool';fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Lil' Joe</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.59788513px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4523);fill-opacity:1;stroke:none;stroke-width:1.55846977;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="-374.49506"
-       y="-213.42012"
-       id="text4497-7"
-       transform="matrix(0.84885609,0,-1.5296637,-1.178056,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan4495-3"
-         x="-374.49506"
+    <g
+       id="g4499"
+       transform="translate(0,-21.166667)">
+      <text
+         id="text4497"
+         y="251.59087"
+         x="31.3862"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.15555573px;font-family:'Marked Fool';-inkscape-font-specification:'Marked Fool';fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="251.59087"
+           x="31.3862"
+           id="tspan4495"
+           sodipodi:role="line">GAME</tspan></text>
+      <text
+         transform="matrix(0.84885609,0,-1.5296637,-1.178056,0,0)"
+         id="text4497-7"
          y="-213.42012"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.19577026px;font-family:'Marked Fool';-inkscape-font-specification:'Marked Fool';fill:url(#linearGradient4523);fill-opacity:1;stroke:none;stroke-width:1.55846977;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Lil' Joe</tspan></text>
+         x="-348.01944"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.59788513px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4523);fill-opacity:1;stroke:none;stroke-width:1.55846977;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.19577026px;font-family:'Marked Fool';-inkscape-font-specification:'Marked Fool';fill:url(#linearGradient4523);fill-opacity:1;stroke:none;stroke-width:1.55846977;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="-213.42012"
+           x="-348.01944"
+           id="tspan4495-3"
+           sodipodi:role="line">GAME</tspan></text>
+    </g>
   </g>
 </svg>
